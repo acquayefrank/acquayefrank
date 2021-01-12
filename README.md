@@ -23,6 +23,7 @@ I'll introduce my research interests by posing a simple question. "Machines can 
 * Visual Question Answering
 * Audio Question Answering 
 * Adversarial Learning
+* Outlier Detection 🤔
 * Data Generation e.g GANs, GPT-based stuff etc.
 
 #### <ins> 🔭 I’m currently working on ... </ins>
