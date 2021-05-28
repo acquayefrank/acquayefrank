@@ -27,6 +27,6 @@ I'll introduce my research interests by posing a simple question. "Machines can 
 * Getting a passion project, IndieHacker style
 
 #### <ins> 🌱 I’m currently taking a deep dive into ... </ins>
-* Machine learning with a focus on deep learning
+* Machine learning - classical as well as deep learning
 * Algorithmic thinking
 * Mathematical thinking
