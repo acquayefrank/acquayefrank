@@ -19,7 +19,9 @@ Sometimes my creativity is displayed through software engineering, writing or co
 I'll introduce my research interests by posing a simple question. "Machines can learn, but can they reason? More importantly can we teach them to reason?" I'm currently fascinated by the prospects of machines that can reason, but in general terms applied machine learning.
 
 #### <ins> ⚡ I’m looking to collaborate on ... </ins>
-* Applied Machine Learning and Machine Reasoning
+* Machine Learning
+* Deep Learning
+* Knowledge representation and reasoning i.e machine reasoning
 
 #### <ins> 🔭 I’m currently working on ... </ins>
 * Getting my masters in Data Science at [HSE-Moscow](https://www.hse.ru/en/ma/datasci/) by 2021
