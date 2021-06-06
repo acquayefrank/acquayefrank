@@ -20,8 +20,6 @@ I'll introduce my research interests by posing a simple question. "Machines can 
 
 #### <ins> ⚡ I’m looking to collaborate on ... </ins>
 * Machine Learning
-* Deep Learning
-* Knowledge representation and reasoning i.e machine reasoning
 
 #### <ins> 🔭 I’m currently working on ... </ins>
 * Getting my masters in Data Science at [HSE-Moscow](https://www.hse.ru/en/ma/datasci/) by 2021
