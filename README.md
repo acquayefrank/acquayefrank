@@ -22,7 +22,6 @@ I'll introduce my research interests by posing a simple question. "Machines can 
 * Machine Learning
 
 #### <ins> 🔭 I’m currently working on ... </ins>
-* Getting my masters in Data Science at [HSE-Moscow](https://www.hse.ru/en/ma/datasci/) by 2021
 * Machine Reasoning Research
 * Getting a passion project, IndieHacker style
 
