@@ -19,7 +19,7 @@ Sometimes my creativity is displayed through software engineering, writing or co
 I'll introduce my research interests by posing a simple question. "Machines can learn, but can they reason? More importantly can we teach them to reason?" I'm currently fascinated by the prospects of machines that can reason, but in general terms applied machine learning.
 
 * Machine Learning and Machine Reasoning
-* Pattern Recognition and Outlier Detection 
+* Pattern Recognition, Outlier Detection and Adversarial Learning I think :)
 * Apparently Bioinformatics
 
 #### <ins> ⚡ I’m looking to collaborate on ... </ins>
