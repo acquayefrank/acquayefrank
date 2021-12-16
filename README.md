@@ -25,7 +25,7 @@ I'll introduce my research interests by posing a simple question. "Machines can 
 #### <ins> ⚡ I’m looking to collaborate on ... </ins>
 * Machine Learning
 * Neural Machine Reasoning
-* Bioinformatics
+* Bioinformatics - Computational Mass Spectrometry
 
 #### <ins> 🔭 I’m currently working on ... </ins>
 * Neural Machine Reasoning
