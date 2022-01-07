@@ -28,8 +28,7 @@ I'll introduce my research interests by posing a simple question. "Machines can 
 * Bioinformatics - Computational Mass Spectrometry
 
 #### <ins> 🔭 I’m currently working on ... </ins>
-* Neural Machine Reasoning
-* Getting a passion project, IndieHacker style
+* Computational Mass Spectrometry
 
 #### <ins> 🌱 I’m currently taking a deep dive into ... </ins>
 * Machine learning - classical as well as deep learning
