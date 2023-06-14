@@ -19,13 +19,13 @@ Sometimes my creativity is displayed through software engineering, writing or co
 I'll introduce my research interests by posing a simple question. "Machines can learn, but can they reason? More importantly can we teach them to reason?" I'm currently fascinated by the prospects of machines that can reason, but in general terms applied machine learning.
 
 * Machine Learning
-* Neural Machine Reasoning
-* Bioinformatics
+* Machine Reasoning
+* Computational Science (Mass Spectrometry)
 
 #### <ins> ⚡ I’m looking to collaborate on ... </ins>
 * Machine Learning
-* Neural Machine Reasoning
-* Bioinformatics - Computational Mass Spectrometry
+* Machine Reasoning
+* Computational Science - Computational Mass Spectrometry
 
 #### <ins> 🔭 I’m currently working on ... </ins>
 * Computational Mass Spectrometry
