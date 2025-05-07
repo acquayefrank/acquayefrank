@@ -12,23 +12,24 @@ Here are some ideas to get you started:
 -->
 
 I love creating stuff; sometimes, I may solve a complex problem when building stuff. But I love creating useful stuff that makes the lives of people easier. 
-Sometimes, my creativity is displayed through software engineering, writing or cooking. Basically I'm creative.
+Sometimes, my creativity is displayed through software engineering, writing or cooking. I'm creative.
 
 
 #### <ins> ⚡ Research Interests: ... </ins>
 I'll introduce my research interests by posing a simple question. "Machines can learn, but can they reason? More importantly, can we teach them to reason?" I'm fascinated by the prospects of machines that can reason, but in general terms, applied machine learning.
 
+* Artificial Intelligence 
 * Machine Learning
 * Deep Learning
-* Computational Science (Mass Spectrometry)
 
 #### <ins> ⚡ I’m looking to collaborate on ... </ins>
+
+* Artificial Intelligence 
 * Machine Learning
 * Deep Learning
-* Computational Science - Computational Mass Spectrometry
 
 #### <ins> 🔭 I’m currently working on ... </ins>
-* Computational Mass Spectrometry
+* Computational Efficiency for Mass Spectrometry
 
 #### <ins> 🌱 I’m currently taking a deep dive into ... </ins>
 * Machine learning - classical as well as deep learning
