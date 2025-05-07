@@ -11,20 +11,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 
-I love creating stuff, sometimes in the process of creating stuff I may solve a complex problem. But basically I love creating useful stuff that makes the lives of people easier. 
-Sometimes my creativity is displayed through software engineering, writing or cooking. Bascially I'm a creative.
+I love creating stuff; sometimes, I may solve a complex problem when building stuff. But I love creating useful stuff that makes the lives of people easier. 
+Sometimes, my creativity is displayed through software engineering, writing or cooking. Basically I'm creative.
 
 
 #### <ins> ⚡ Research Interests: ... </ins>
-I'll introduce my research interests by posing a simple question. "Machines can learn, but can they reason? More importantly can we teach them to reason?" I'm currently fascinated by the prospects of machines that can reason, but in general terms applied machine learning.
+I'll introduce my research interests by posing a simple question. "Machines can learn, but can they reason? More importantly, can we teach them to reason?" I'm fascinated by the prospects of machines that can reason, but in general terms, applied machine learning.
 
 * Machine Learning
-* Machine Reasoning
+* Deep Learning
 * Computational Science (Mass Spectrometry)
 
 #### <ins> ⚡ I’m looking to collaborate on ... </ins>
 * Machine Learning
-* Machine Reasoning
+* Deep Learning
 * Computational Science - Computational Mass Spectrometry
 
 #### <ins> 🔭 I’m currently working on ... </ins>
