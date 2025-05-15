@@ -18,13 +18,13 @@ Sometimes, my creativity is displayed through software engineering, writing or c
 #### <ins> ⚡ Research Interests: ... </ins>
 I'll introduce my research interests by posing a simple question. "Machines can learn, but can they reason? More importantly, can we teach them to reason?" I'm fascinated by the prospects of machines that can reason, but in general terms, applied machine learning.
 
-* Artificial Intelligence 
+* Computer Science 
 * Machine Learning
 * Deep Learning
 
 #### <ins> ⚡ I’m looking to collaborate on ... </ins>
 
-* Artificial Intelligence 
+* Computer Science 
 * Machine Learning
 * Deep Learning
 
